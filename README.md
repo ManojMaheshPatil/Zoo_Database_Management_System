@@ -1,2 +1,3 @@
 # Zoo_Database_Management_System
-Zoo Database Management (SQLite)
+
+A simple SQL project , that adds , retrives and analyses data. 
